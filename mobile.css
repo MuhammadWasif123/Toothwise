@@ -1,0 +1,888 @@
+@media only screen and (max-width:1200px) {
+
+
+    body {
+        overflow-x: auto;
+
+    }
+
+    .about .about-inner-section .btn {
+        margin-bottom: 2rem;
+
+
+
+
+    }
+
+    services-section .card .card-text {
+        font-size: 1.4rem;
+    }
+
+    services-section .card .card-text {
+
+
+        font-size: 2.4rem;
+
+
+
+    }
+
+    .services-section .card .service-button {
+
+        font-size: 1.3rem;
+        padding: 0.8rem 1.1rem;
+
+
+
+    }
+
+    .team .team-img img {
+        width: 82%;
+    }
+
+    footer .input-group {
+        width: 46%;
+        position: relative;
+        left: 15rem;
+    }
+
+
+}
+
+@media only screen and (max-width:990px) {
+
+
+    .header-wrapper .navbar {
+        text-align: center;
+
+
+
+    }
+
+    .header-wrapper .navbar-brand img {
+        width: 38%;
+        position: relative;
+        right: 11rem;
+
+
+
+
+    }
+
+
+    #home {
+        width: 100%;
+
+
+
+    }
+
+    #home .d-flex {
+        flex-direction: column-reverse;
+
+
+
+
+    }
+
+    #home .d-flex .main-btn {
+        font-size: 1.4rem;
+        padding: 0.8rem 1.2rem;
+
+
+
+
+    }
+
+    #home .d-flex .position-image {
+        position: relative;
+        left: 0;
+        margin-bottom: 2rem;
+        width: 64%;
+
+
+    }
+
+    #home .d-flex .h-home-secondary {
+        font-size: 2.7rem;
+
+
+
+
+    }
+
+    #home .d-flex .h-primary {
+        font-size: 5.7rem;
+
+
+
+
+    }
+
+    .services-section .card .card-text {
+        font-size: 1.2rem;
+
+    }
+
+
+    .services-section .card .card-title {
+        font-size: 1.6rem;
+
+
+    }
+
+    .services-section .card .service-button {
+        font-size: 1.1rem;
+        padding: 0.9rem 1rem;
+    }
+
+
+
+    .team h1 {
+        font-size: 3.2rem;
+
+    }
+
+    .team .card .card-title {
+        font-size: 1.74rem;
+
+    }
+
+    .team .card .card-text {
+        font-size: 1.4rem;
+
+    }
+
+    .team .team-img img {
+        width: 94%;
+    }
+
+    .team .card {
+        height: 30rem;
+    }
+
+    .testimonial .card {
+        height: 33rem;
+
+    }
+
+    footer h5 {
+        font-size: 1.7rem;
+        margin-bottom: 3rem;
+
+    }
+
+    footer .link-position {
+        /* position: relative; */
+        text-align: center;
+        right: 0.6rem;
+    }
+
+    footer .footer-btn {
+        font-size: 1.3rem;
+        padding: 0.5rem 0rem;
+        width: 12rem;
+        position: relative;
+        right: 2.6rem;
+        margin-top: 2rem;
+    }
+
+
+    footer .input-group {
+        width: 52%;
+        position: relative;
+        left: 9rem;
+    }
+
+
+}
+
+
+@media only screen and (min-width:990px) {
+
+    .header-wrapper .navbar-brand img {
+        width: 50%;
+
+
+
+
+    }
+
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        font-size: 1.68rem;
+
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link2 {
+        /* padding-right: 0.5rem;
+    padding-left: 0.5rem;*/
+        width: 12rem;
+
+
+
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link3 {
+        /* padding-right: 0.5rem;
+    padding-left: 0.5rem;*/
+        width: 9rem;
+
+
+
+
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link4 {
+        /* padding-right: 0.5rem;
+    padding-left: 0.5rem;*/
+        width: 10rem;
+
+
+    }
+
+    #home .d-flex .position-image {
+        position: relative;
+        left: 2.7rem;
+
+    }
+
+
+}
+
+@media only screen and (max-width:404px) {
+
+    .header-wrapper .navbar-brand img {
+        width: 38%;
+        position: relative;
+        /* right: 11rem; */
+        /* text-align: center; */
+        left: 1.5rem;
+    }
+
+    .navbar-expand-lg .navbar-toggler .navbar-toggler-icon {
+        position: relative;
+        bottom: 3.5rem;
+
+
+
+    }
+
+
+}
+
+
+
+@media only screen and (max-width:420px) {
+    #home .d-flex .h-home-secondary {
+        font-size: 2.6rem;
+    }
+
+
+
+    #home .d-flex .h-primary {
+        font-size: 4.3rem;
+    }
+
+    #home .d-flex .main-btn {
+        font-size: 1rem;
+        padding: 0.8rem 0.4rem;
+    }
+
+    #home .d-flex .position-image {
+        width: 73%;
+
+
+
+    }
+
+    .home-2 .card {
+        height: 37rem;
+
+
+
+    }
+
+    #about .about-inner-section {
+        text-align: center;
+
+    }
+
+    .about .about-inner-section h1 {
+        font-size: 3.2rem;
+
+
+
+
+
+
+    }
+
+    .about .about-inner-section p {
+        font-size: 1.4rem;
+
+
+    }
+
+    .about .about-inner-section .btn {
+        margin-bottom: 2rem;
+
+
+
+
+    }
+
+}
+
+
+/* #home2 cards or support */
+@media (min-width:576px) and (max-width:1002px) {
+    .home-2 .card {
+        height: 43rem;
+
+
+
+    }
+
+
+
+    .services-section .card {
+        height: 39rem;
+
+
+    }
+
+}
+
+
+@media (min-width:1020px) and (max-width:1184px) {
+
+    .home-2 .card .mb-5 {
+        margin-bottom: 0.4rem;
+    }
+
+
+}
+
+
+@media only screen and (max-width:350px) {
+    .home-2 .card {
+        height: 50rem;
+    }
+
+
+    .team .card .card-title {
+        font-size: 1.9rem;
+    }
+
+
+    .team .card .card-text {
+        font-size: 1.5rem;
+
+    }
+
+    .team .card {
+        height: 31rem;
+
+    }
+
+    .team h1 {
+        font-size: 3rem;
+    }
+
+    .team .team-img img {
+        width: 84%;
+
+
+    }
+
+    .services-section .card {
+        height: 38rem;
+        margin-left: 1.5rem;
+        margin-right: 1.2rem;
+
+    }
+
+    .services-section .container h1 {
+        font-size: 3.1rem;
+
+    }
+
+    .services-section .card .card-title {
+        font-size: 1.9rem;
+    }
+
+
+
+
+    .testimonial h1 {
+
+        font-size: 3.2rem;
+
+    }
+
+
+    .testimonial .card {
+        height: 33rem;
+        position: relative;
+        left: 1.4rem;
+    }
+
+    .testimonial .card img {
+        width: 55% !important;
+
+    }
+
+    .testimonial .card .fa {
+        font-size: 1.5rem !important;
+
+
+
+    }
+
+    .testimonial p {
+        font-size: 1.6rem;
+        text-align: center;
+
+    }
+
+    .testimonial h4 {
+        font-size: 2.3rem;
+        text-align: center;
+        margin-top: 2.4rem;
+    }
+
+
+
+    .testimonial .card h3 {
+        font-size: 2.3rem
+    }
+
+
+    footer h5 {
+        font-size: 2rem;
+        margin-bottom: 3rem;
+
+    }
+
+    footer .mb-4 {
+
+        margin-bottom: 4.5rem !important;
+
+
+
+    }
+
+    footer .input-group {
+        display: none;
+    }
+
+    footer h4 {
+        position: relative;
+        right: 1.5rem;
+        margin-bottom: 2.4rem;
+        font-size: 2rem;
+    }
+
+
+    footer .footer-btn {
+        font-size: 1.3rem;
+        padding: 0.5rem 0rem;
+        border-radius: 2rem;
+        width: 9rem;
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+        position: relative;
+        bottom: 3rem;
+    }
+
+    footer .last-para {
+        margin-top: 4rem;
+        position: relative;
+        right: 0.5rem;
+        top: 2rem;
+    }
+
+    footer .last-para p {
+        font-family: var(--secondary-font);
+        font-size: 1.4rem;
+    }
+
+    footer .last-para h3 {
+        font-size: 1.3rem !important;
+
+
+    }
+
+    footer ul .contact-list {
+        font-size: 1.5rem;
+        font-family: var(--secondary-font);
+    }
+
+    footer ul li {
+        margin-bottom: 2rem !important;
+        /* display: inline-block; */
+    }
+
+    footer .ps-4 {
+        padding-left: 1.5rem !important;
+        position: relative;
+        right: 2.7rem;
+    }
+
+    footer .link-position {
+        position: relative;
+        right: 0.6rem;
+    }
+
+    footer .follow-div .follow-list {
+        position: relative;
+        bottom: 1.5rem;
+    }
+
+
+    footer {
+        text-align: center;
+
+
+
+    }
+
+
+
+}
+
+@media (min-width:350px) and (max-width:768px) {
+
+    #about .about-inner-section {
+        text-align: center;
+
+    }
+
+    footer h5 {
+        font-size: 2.4rem;
+        margin-bottom: 3rem;
+    }
+
+    footer .mb-4 {
+
+        margin-bottom: 4.5rem !important;
+
+
+
+    }
+
+    footer .input-group {
+        margin-bottom: 3rem;
+        position: relative;
+        right: 3rem;
+        left: 12rem;
+    }
+
+    footer h4 {
+        position: relative;
+        right: 1.5rem;
+        margin-bottom: 2.4rem;
+        font-size: 2.4rem;
+    }
+
+
+    footer .footer-btn {
+        font-size: 1.5rem;
+        padding: 0.6rem 0.8rem;
+        border-radius: 2rem;
+        width: 10rem;
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+        position: relative;
+        bottom: 3rem;
+
+    }
+
+    footer .last-para {
+        margin-top: 4rem;
+        position: relative;
+        right: 2.5rem;
+        top: 2rem;
+    }
+
+    footer .last-para p {
+        font-size: 1.7rem;
+    }
+
+    footer .last-para h3 {
+        font-size: 1.7rem !important;
+    }
+
+
+
+    footer ul .contact-list {
+        font-size: 1.5rem;
+        font-family: var(--secondary-font);
+    }
+
+    footer ul li {
+        margin-bottom: 2rem !important;
+        /* display: inline-block; */
+    }
+
+    footer ul li a {
+        font-size: 2rem;
+
+    }
+
+
+    footer .ps-4 {
+        padding-left: 1.5rem !important;
+        position: relative;
+        right: 2.7rem;
+    }
+
+    footer .link-position {
+        position: relative;
+        right: 0.6rem;
+    }
+
+    footer .follow-div .follow-list {
+        position: relative;
+        bottom: 1.5rem;
+    }
+
+
+    footer {
+        text-align: center;
+
+
+
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:350px) and (max-width:575px) {
+
+
+
+
+    .team .team-img img {
+        width: 56%;
+
+
+
+    }
+
+    .team .card {
+        height: 35rem;
+
+    }
+
+    .team .card .card-title {
+        font-size: 2.3rem;
+
+    }
+
+
+    .team .card .card-text {
+        font-size: 1.5rem;
+
+    }
+
+    .team h1 {
+        font-size: 3.3rem;
+
+
+    }
+
+
+    .services-section .card {
+
+        padding: 2.4rem 2.5rem;
+        height: 33rem;
+        margin-left: 1.5rem;
+        margin-right: 1.2rem;
+
+
+    }
+
+
+    .services-section .card .card-text {
+        font-size: 1.3rem;
+
+
+    }
+
+    .services-section .card .service-button {
+        font-size: 1.4rem;
+        padding: 0.9rem 1.2rem;
+    }
+
+    .services-section .card .card-title {
+        font-size: 2.2rem;
+    }
+
+    .services-section .container h1 {
+        font-size: 3.5rem;
+
+    }
+
+
+    .testimonial .card {
+        height: 43rem;
+        position: relative;
+        left: 1.8rem;
+
+    }
+
+    .testimonial .card img {
+        width: 51% !important;
+
+    }
+
+    .testimonial h4 {
+        font-size: 2.7rem;
+        text-align: center;
+        margin-top: 3.4rem;
+    }
+
+    .testimonial p {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    .testimonial .card h3 {
+        font-size: 2.3rem;
+    }
+
+
+    footer h5 {
+        font-size: 2rem;
+        margin-bottom: 3rem;
+
+    }
+
+    footer .mb-4 {
+
+        margin-bottom: 4.5rem !important;
+
+
+
+    }
+
+    footer .input-group {
+        display: none;
+    }
+
+    footer h4 {
+        position: relative;
+        right: 1.5rem;
+        margin-bottom: 2.4rem;
+        font-size: 2rem;
+    }
+
+
+    footer .footer-btn {
+        font-size: 1.3rem;
+        padding: 0.5rem 0rem;
+        border-radius: 2rem;
+        width: 9rem;
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+        position: relative;
+        bottom: 3rem;
+    }
+
+    footer .last-para {
+        margin-top: 4rem;
+        position: relative;
+        right: 1.5rem;
+        top: 2rem;
+    }
+
+    footer .last-para p {
+        font-family: var(--secondary-font);
+        font-size: 1.4rem;
+    }
+
+    footer .last-para h3 {
+        font-size: 1.3rem !important;
+
+
+    }
+
+    footer ul .contact-list {
+        font-size: 1.5rem;
+        font-family: var(--secondary-font);
+    }
+
+    footer ul li {
+        margin-bottom: 2rem !important;
+        /* display: inline-block; */
+    }
+
+    footer .ps-4 {
+        padding-left: 1.5rem !important;
+        position: relative;
+        right: 2.7rem;
+    }
+
+    footer .link-position {
+        position: relative;
+        right: 0.6rem;
+    }
+
+    footer .follow-div .follow-list {
+        position: relative;
+        bottom: 1.5rem;
+    }
+
+
+    footer {
+        text-align: center;
+
+
+
+    }
+
+
+}
+
+/* Gallery Styling */
+
+@media only screen and (max-width:575px) {
+
+    .gallery .display-1 {
+        display: none;
+
+
+    }
+
+    .gallery .padding-func {
+
+        padding-right: 1.9rem !important;
+        padding-left: 1.9rem !important;
+
+
+
+    }
+
+
+    .gallery h1 {
+
+        font-size: 3.2rem;
+
+    }
+
+}
